@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.main-visual{
+  background-image: url(img/mv.jpg);
+  height:400px;
+  background-size:cover;
+  background-position: bottom;
+}
+
+.main-heading{
+  padding:20px 0px 0px 20px;
+}
+
+.main-contents{
+  width:840px;
+  padding:20px 0px 50px 0px;
+  margin:0 auto;
+}
+
+.main-box{
+  padding:30px 0px;
+  border-bottom: 1px solid black
+}
+
+.contents-text{
+  font-size: 10px;
+}
+
+.link{
+  font-size:10px;
+}
